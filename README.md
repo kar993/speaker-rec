@@ -1,0 +1,1 @@
+a vggish model is used to implement a speaker recognition system. the training dataset is two audio files, each about 4 mins duration and one is female voice and the other is a male voice. the testing/validation dataset is the audio sample eaach of about 1 min from the same people. the words and sentences in training and testing dataset are not similar
